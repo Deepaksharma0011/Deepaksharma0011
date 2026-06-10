@@ -67,9 +67,9 @@
 
 <div align="center">
 
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Deepaksharma0011&show_icons=true&theme=tokyonight&hide_border=true)
+![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepaksharma0011&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Deepaksharma0011&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepaksharma0011&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
